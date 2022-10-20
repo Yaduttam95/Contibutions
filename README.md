@@ -12,6 +12,8 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
+## Star the repository.
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
