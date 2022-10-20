@@ -1,5 +1,11 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/Yaduttam95/Contibutions.svg)](https://GitHub.com/Yaduttam95/Contibutions/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Yaduttam95/Contibutions.svg)](https://GitHub.com/Yaduttam95/Contibutions/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub open-pull-requests](https://badgen.net/github/open-prs/Yaduttam95/Contibutions)](https://github.com/Yaduttam95/Contibutions/pulls?q=is%3Aopen)
+[![GitHub pull-requests closed](https://badgen.net/github/closed-prs/Yaduttam95/Contibutions)](https://github.com/Yaduttam95/Contibutions/pulls?q=is%3Aclosed)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 # Contributions
 
